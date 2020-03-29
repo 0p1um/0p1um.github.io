@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Op1um | Op1um</title>
-        <link>https://0p1um.github.io//</link>
+        <link>https://0p1um.github.io/</link>
         <description>Op1um | Op1um</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://0p1um.github.io//" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://0p1um.github.io/" rel="self" type="application/rss+xml" /></channel>
 </rss>
