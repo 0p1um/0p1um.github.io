@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dna on Op1um</title>
+    <link>https://0p1um.github.io/tags/dna/</link>
+    <description>Recent content in dna on Op1um</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 13:23:09 +0100</lastBuildDate>
+    
+	<atom:link href="https://0p1um.github.io/tags/dna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome Analysis</title>
+      <link>https://0p1um.github.io/genome-analysis/</link>
+      <pubDate>Thu, 26 Mar 2020 13:23:09 +0100</pubDate>
+      
+      <guid>https://0p1um.github.io/genome-analysis/</guid>
+      <description>I have long hesitated to order an analysis of my genome. I found it interesting to learn more about myself through genome. But on the other hand I am against the way in which cheap genome analysis companies try to use such personal data. In this article I explain how I had my genome analyzed, I give some advice to protect your personal data as much as possible, and how I proceeded to manually do a much deeper analysis of the raw genome data.</description>
+    </item>
+    
+  </channel>
+</rss>

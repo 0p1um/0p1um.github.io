@@ -3,5 +3,25 @@
         <title>Op1um | Op1um</title>
         <link>https://0p1um.github.io/</link>
         <description>Op1um | Op1um</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://0p1um.github.io/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 13:23:19 &#43;0100</lastBuildDate><atom:link href="https://0p1um.github.io/" rel="self" type="application/rss+xml" /><item>
+                <title>About</title>
+                <link>https://0p1um.github.io/about/</link>
+                <pubDate>Thu, 26 Mar 2020 13:23:19 &#43;0100</pubDate><guid>https://0p1um.github.io/about/</guid>
+                <description>&lt;p&gt;My name is Samuel Cohen, aka Op1um on the internet. I work as an independent consultant, mainly in cybersecurity. During my free time, I do research, programming, bug bounty on hackerone or synack, and many other interesting things.&lt;/p&gt;
+&lt;p&gt;In this blog I mainly speak:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computers&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;Free Software development&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
+&lt;li&gt;And all the other subjects that interest me &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            </item><item>
+                <title>Posts</title>
+                <link>https://0p1um.github.io/posts/</link>
+                <pubDate>Thu, 26 Mar 2020 13:23:09 &#43;0100</pubDate><guid>https://0p1um.github.io/posts/</guid>
+                <description></description>
+            </item></channel>
 </rss>
