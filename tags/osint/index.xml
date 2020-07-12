@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Op1um</title>
-    <link>https://op1um.blog/posts/</link>
-    <description>Recent content in Posts on Op1um</description>
+    <title>osint on Op1um</title>
+    <link>https://op1um.blog/tags/osint/</link>
+    <description>Recent content in osint on Op1um</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jul 2020 03:51:53 +0200</lastBuildDate>
     
-	<atom:link href="https://op1um.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://op1um.blog/tags/osint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://op1um.blog/osint-find-people-using-tinder/</guid>
       <description>You can find the repository of this article, with a jupyter notebook on my gitlab or my github Introduction Tinder is one of the most used dating applications, 57 million users in 2020. Dating applications are an important privacy issue because they collect a lot of user data to be able to propose the profiles that best match each user.
 The features of Tinder can therefore be abused by users to spy on other users, which is dangerous especially at the time of stalkers.</description>
-    </item>
-    
-    <item>
-      <title>Genome Analysis</title>
-      <link>https://op1um.blog/genome-analysis/</link>
-      <pubDate>Thu, 26 Mar 2020 13:23:09 +0100</pubDate>
-      
-      <guid>https://op1um.blog/genome-analysis/</guid>
-      <description>I have long hesitated to order an analysis of my genome. I found it interesting to learn more about myself through genome. But on the other hand I am against the way in which cheap genome analysis companies try to use such personal data. In this article I explain how I had my genome analyzed, I give some advice to protect your personal data as much as possible, and how I proceeded to manually do a much deeper analysis of the raw genome data.</description>
     </item>
     
   </channel>

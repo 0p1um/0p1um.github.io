@@ -4,6 +4,11 @@
         <link>https://op1um.blog/</link>
         <description>Op1um | Op1um</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 13:23:19 &#43;0100</lastBuildDate><atom:link href="https://op1um.blog/" rel="self" type="application/rss+xml" /><item>
+                <title>Posts</title>
+                <link>https://op1um.blog/posts/</link>
+                <pubDate>Sun, 12 Jul 2020 03:51:53 &#43;0200</pubDate><guid>https://op1um.blog/posts/</guid>
+                <description></description>
+            </item><item>
                 <title>About</title>
                 <link>https://op1um.blog/about/</link>
                 <pubDate>Thu, 26 Mar 2020 13:23:19 &#43;0100</pubDate><guid>https://op1um.blog/about/</guid>
@@ -18,10 +23,5 @@
 &lt;li&gt;And all the other subjects that interest me &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-            </item><item>
-                <title>Posts</title>
-                <link>https://op1um.blog/posts/</link>
-                <pubDate>Thu, 26 Mar 2020 13:23:09 &#43;0100</pubDate><guid>https://op1um.blog/posts/</guid>
-                <description></description>
             </item></channel>
 </rss>
